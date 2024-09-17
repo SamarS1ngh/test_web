@@ -1,0 +1,16 @@
+<resources>
+    <string name="test_web">Flutter Trusted Web Activity</string>
+    <string name="asset_statements">
+       [
+ {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.test_web",
+    "sha256_cert_fingerprints":
+    ["BA:9D:39:1E:47:D2:C1:E6:61:4C:6C:24:C5:B9:04:B5:0B:E5:F3:10:55:70:1B:BA:6A:12:E4:3A:65:74:44:30"]
+  }
+}
+]
+    </string>
+</resources>
